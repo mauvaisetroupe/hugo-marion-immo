@@ -8,7 +8,7 @@ weight: 99
 N'hésitez pas à me contacter
 
 **Tél** : <a href="tel:+352%20661%2051%2006%2051">+352 661 51 06 51</a>  
-**Email** : <a href="mailto:marion.boudier@remax.lu" alt="Email">marion.boudier@remax.lu</a>   
+**Email** : <a href="mailto:marion.boudier.pro@gmail.com" alt="Email">marion.boudier.pro@gmail.com</a>   
 **Web** : <a href="http://www.marion-immo.lu" >www.marion-immo.lu</a>   
    
    

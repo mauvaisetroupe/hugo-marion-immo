@@ -13,7 +13,7 @@ weight: 3
 Making estimate the value of its property is a crucial step to make a successful sale.
 Determining the right selling price is the first step in a successful real estate transaction
 
-<div style="font-family: 'Source Sans Pro', sans-serif;font-size:55px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Sell quickly thanks to the good sale price </div>
+<div style="font-family: 'Source Sans Pro', sans-serif;font-size:30px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Sell quickly thanks to the good sale price </div>
 
 # Sell at the right price, sell quickly
 
@@ -42,7 +42,7 @@ Based on a complete diagnosis of your home or your apartment but also and especi
 
 {{<figure class = "imageastep" src = "/images/shaking_hands-512.png">}}
 ## Step 1
-Meet at your home with one of our RE/MAX experts
+Meet at your home with one of our Coldwell Banker® experts
 We move for free and without obligation on your part
 
 {{<figure class = "imageastep" src = "/images/estimation.png">}}

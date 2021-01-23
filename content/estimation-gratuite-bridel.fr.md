@@ -52,7 +52,7 @@ N'hésitez pas : demandez l'estimation gratuite de votre maison ou de votra appa
 
 {{< figure class="imageastep" src="/images/shaking_hands-512.png" >}} 
 ## Step 1
-Rencontre à votre domicile à Bridel avec un de nos experts RE/MAX  
+Rencontre à votre domicile à Bridel avec un de nos experts Coldwell Banker®   
 Nous nous déplaçons gratuitement et sans engagement de votre part
 
 {{< figure class="imageastep" src="/images/estimation.png" >}}  

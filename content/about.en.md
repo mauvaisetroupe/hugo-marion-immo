@@ -11,21 +11,21 @@ weight: 10
 
 ## Please, contact me
 
-<b>Marion Boudier</b>, real estate agent Re/Max All Stars at Bridel and Strassen 
+<b>Marion Boudier</b>, real estate agent Coldwell Banker® in Luxembourg 
 
 **Phone** : <a href="tel:+352%20661%2051%2006%2051">+352 661 51 06 51</a>  
-**Email** : <a href="mailto:marion.boudier@remax.lu" alt="Email">marion.boudier@remax.lu</a>   
+**Email** : <a href="mailto:marion.boudier.pro@gmail.com" alt="Email">marion.boudier.pro@gmail.com</a>   
 **Web site** : <a href="http://www.marion-immo.lu" >www.marion-immo.lu</a>   
 
-<a href="/vcard/marion-boudier-remax.vcf" alt="VCard"><b>Please add my to your phone contacts</b></a>   
+<a href="/vcard/marion-boudier-remax.vcf" alt="VCard"><b>Please add me to your phone contacts</b></a>   
 
 
 <br/>
 
 ## Estate agency
 
-{{< figure src="/images/remax-all-stars-no-ballon.png" >}}
-Re/Max All Stars<br/>
+{{< figure src="/images/logo-agence-black-450.jpg" >}}
+Hestia Group Coldwell Banker<br/>
 18 Rue de la Chapelle<br/>
 L-8017 Strassen
 

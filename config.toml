@@ -12,20 +12,20 @@ DefaultContentLanguage = "fr"
     title = "Marion Immo"     # The title of your Hugo site
     weight = 1
     [languages.fr.params]
-        description = "Welcome on Marion Boudier website, Re/Max real estate agent Strassen and Bridel"
+        description = "Welcome on Marion Boudier website, your real estate agent in Luxembourg"
         favicon = "favicon.ico"
         logo = ""
   [languages.en]
     title = "Marion Immo"
     weight = 2
     [languages.en.params]
-        description = "Welcome on Marion Boudier website, Re/Max real estate agent Strassen and Bridel"
+        description = "Welcome on Marion Boudier website, your real estate agent in Luxembourg"
         favicon = "favicon.ico"
         logo = ""
 
 
 [params]
-    description = "Bienvenu sur le site de Marion Boudier, agent immobilier Re/Max à Strassen et Bridel"
+    description = "Bienvenu sur le site de Marion Boudier, votre agent immobilier au Luxembourg"
     favicon = "favicon.ico"
     logo = ""
 
@@ -33,7 +33,7 @@ DefaultContentLanguage = "fr"
     textColor = "blue" # Empty for default color
 
 [params.contact]
-    email = "marion.boudier@remax.lu"
+    email = "marion.boudier.pro@gmail.lu"
     phone = "+352 661 51 06 51"
     skype = ""
     address = ""

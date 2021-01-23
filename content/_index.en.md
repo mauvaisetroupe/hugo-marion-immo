@@ -13,4 +13,4 @@ weight: 1
 
 # Marion Boudier
 ## Your real estate agent
-{{< figure src="/images/remax-all-stars-no-ballon.png" >}}
+{{< figure src="/images/logo-agence-black-450.jpg" >}}

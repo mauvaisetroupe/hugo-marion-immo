@@ -12,5 +12,5 @@ weight: 1
 <br/>
 
 # Marion Boudier
-## Votre Conseillère en immobilier
-{{< figure src="/images/remax-all-stars-no-ballon.png" >}}
+## Votre agent immobilier
+{{< figure src="/images/logo-agence-black-450.jpg" >}}

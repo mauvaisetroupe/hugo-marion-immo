@@ -13,7 +13,7 @@ weight: 3
 Faire estimer la valeur de son bien immobilier est une étape cruciale pour réussir sa vente.   
 Déterminer le bon prix de vente est la première étape d'une transaction immobilière réussie
 
-<div style="font-family: 'Source Sans Pro', sans-serif;font-size:55px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Vendez rapidement grâce au bon prix de vente</div>
+<div style="font-family: 'Source Sans Pro', sans-serif;font-size:30px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Vendez rapidement grâce au bon prix de vente</div>
 
 # Vendre au bon prix, vendre rapidement
 
@@ -42,7 +42,7 @@ Basée sur un diagnostic complet de votre maison ou sur votre appartement mais a
 
 {{< figure class="imageastep" src="/images/shaking_hands-512.png" >}} 
 ## Step 1
-Rencontre à votre domicile avec un de nos experts RE/MAX  
+Rencontre à votre domicile avec un de nos experts Coldwell Banker®   
 Nous nous déplaçons gratuitement et sans engagement de votre part
 
 {{< figure class="imageastep" src="/images/estimation.png" >}}  
