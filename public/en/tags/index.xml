@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Marion Immo</title>
+    <link>http://www.marion-immo.lu/en/tags/</link>
+    <description>Recent content in Tags on Marion Immo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="http://www.marion-immo.lu/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bridel</title>
+      <link>http://www.marion-immo.lu/en/tags/bridel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.marion-immo.lu/en/tags/bridel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>luxembourg</title>
+      <link>http://www.marion-immo.lu/en/tags/luxembourg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.marion-immo.lu/en/tags/luxembourg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

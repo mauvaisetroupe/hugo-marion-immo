@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://www.marion-immo.lu/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2019-06-19T22:32:19+01:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://www.marion-immo.lu/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

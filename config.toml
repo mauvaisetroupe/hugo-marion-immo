@@ -1,0 +1,62 @@
+baseurl = "http://www.marion-immo.lu/"           # The base URL of your Hugo site
+author = "Marion Boudier"   # The author name
+googleAnalytics = ""    # Your Google Analytics tracking ID
+enableRobotsTXT = true
+language = "fr-FR"
+paginate = 3            # The numbers of posts per page
+theme = "terrassa"      # Your Hugo theme
+DefaultContentLanguage = "fr"
+
+[languages]
+  [languages.fr]
+    title = "Marion Immo"     # The title of your Hugo site
+    weight = 1
+    [languages.fr.params]
+        description = "Welcome on Marion Boudier website, Re/Max real estate agent Strassen and Bridel"
+        favicon = "favicon.ico"
+        logo = ""
+  [languages.en]
+    title = "Marion Immo"
+    weight = 2
+    [languages.en.params]
+        description = "Welcome on Marion Boudier website, Re/Max real estate agent Strassen and Bridel"
+        favicon = "favicon.ico"
+        logo = ""
+
+
+[params]
+    description = "Bienvenu sur le site de Marion Boudier, agent immobilier Re/Max à Strassen et Bridel"
+    favicon = "favicon.ico"
+    logo = ""
+
+[params.hero]
+    textColor = "blue" # Empty for default color
+
+[params.contact]
+    email = "marion.boudier@remax.lu"
+    phone = "+352 661 51 06 51"
+    skype = ""
+    address = ""
+
+
+ [params.posts]
+    showAuthor = true
+    showDate = true
+    showTags = true
+    dateFormat = "Monday, Jan, 2006"   
+
+[params.form] # Contact form
+    netlify = false
+    action = "https://formspree.io/your@email.com"
+    method = "POST"
+    inputNameName = "name"
+    inputNameLabel = "Name"
+    inputNamePlaceholder = "Votre nom"
+    inputEmailName = "email"
+    inputEmailLabel = "Email"
+    inputEmailPlaceholder = "Votre email"
+    inputMsgName = "message"
+    inputMsgLabel = "Décrivez votre bien ou précisez votre demande"
+    inputMsgLength = 750
+    inputSubmitValue = "Demander une évaluation gratuite"    
+
