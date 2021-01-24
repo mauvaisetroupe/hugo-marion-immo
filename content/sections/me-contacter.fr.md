@@ -13,7 +13,7 @@ N'hésitez pas à me contacter
    
    
 
-<a href="/vcard/marion-boudier-remax.vcf" alt="VCard" style="font-family: 'Source Sans Pro', sans-serif;font-size:30px; font-weight:700; color:red;line-height:1.1; text-align: center;">Cliquez pour m'ajouter à vos contacts</a>
+<a href="/vcard/marion-boudier-remax.vcf" alt="VCard" style="font-family: 'Source Sans Pro', sans-serif;font-size:20px; font-weight:700; color:red;line-height:1.1; text-align: center;">Cliquez pour m'ajouter à vos contacts</a>
 
 
 ## Retrouvez-moi sur Youtube

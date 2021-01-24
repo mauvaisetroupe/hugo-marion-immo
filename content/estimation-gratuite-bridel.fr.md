@@ -71,7 +71,7 @@ L'expert vérifie la conformité des documents. Nous connaissons la législation
 Nous fous fournissons l'estimation de votre bien 
 
 
-[ >>>> Remplir un formulaire de demande d'estimation gratuite de vote maison ou votre appartement à Luxembourg]({{< ref  "about.fr.md" >}})
+[ >>>> Remplir un formulaire de demande d'estimation gratuite de vote maison ou votre appartement à Luxembourg]({{< ref "formulaire-demande-estimation.fr.md" >}})
 
 
 ## Retrouvez-moi sur Youtube

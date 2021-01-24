@@ -15,6 +15,9 @@ Determining the right selling price is the first step in a successful real estat
 
 <div style="font-family: 'Source Sans Pro', sans-serif;font-size:30px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Sell quickly thanks to the good sale price </div>
 
+<br/>
+[>>>> Complete a request form for a free estimate of a house vote or your apartment in Luxembourg] ({{<ref "formulaire-demande-estimation.en.md">}})
+
 # Sell at the right price, sell quickly
 
 Overestimation may slow the sale of your property**. You will not find or few buyers. A property that stays on the market for too long is discredited.
@@ -61,8 +64,7 @@ The expert checks the conformity of the documents. We know the Luxembourg legisl
 We are providing the estimate of your property
 
 
-[>>>> Complete a request form for a free estimate of a house vote or your apartment in Luxembourg] ({{<ref "about.en.md">}})
-
+[>>>> Complete a request form for a free estimate of a house vote or your apartment in Luxembourg] ({{<ref "formulaire-demande-estimation.en.md">}})
 ## Find me on Youtube
 
 An example of what we can do to rent or sell your property:

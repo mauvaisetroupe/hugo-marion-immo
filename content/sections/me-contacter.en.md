@@ -13,7 +13,7 @@ Please call me for more details.
    
    
 
-<a href="/vcard/marion-boudier-remax.vcf" alt="VCard" style="font-family: 'Source Sans Pro', sans-serif;font-size:30px; font-weight:700; color:red;line-height:1.1; text-align: center;">Please, add me to your phone contacts</a>
+<a href="/vcard/marion-boudier-remax.vcf" alt="VCard" style="font-family: 'Source Sans Pro', sans-serif;font-size:20px; font-weight:700; color:red;line-height:1.1; text-align: center;">Please, add me to your phone contacts</a>
 
 
 ## Please, follow me on youtube

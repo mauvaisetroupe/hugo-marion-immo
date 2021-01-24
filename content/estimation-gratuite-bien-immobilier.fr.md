@@ -15,6 +15,9 @@ Déterminer le bon prix de vente est la première étape d'une transaction immob
 
 <div style="font-family: 'Source Sans Pro', sans-serif;font-size:30px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Vendez rapidement grâce au bon prix de vente</div>
 
+<br/>
+[ >>>> Remplir un formulaire de demande d'estimation gratuite de vote maison ou votre appartement à Luxembourg]({{< ref "formulaire-demande-estimation.fr.md" >}})
+
 # Vendre au bon prix, vendre rapidement
 
 Une surestimation risque de **ralentir la vente de votre bien**. Vous ne trouverez pas ou peu d’acheteurs. Une propriété qui reste trop longtemps sur le marché est décrédibilisée.
@@ -39,6 +42,7 @@ Nous utilisons une méthode professionnelle et largement éprouvée.
 Basée sur un diagnostic complet de votre maison ou sur votre appartement mais aussi et surtout sur une analyse du marché et de la concurrence, nous avons le savoir faire pour mettre votre bien au bon prix sur la marché.
 
 # Les étapes pour connaître la valeur réelle de votre bien au Luxembourg
+<br/>
 
 {{< figure class="imageastep" src="/images/shaking_hands-512.png" >}} 
 ## Step 1
@@ -61,7 +65,7 @@ L'expert vérifie la conformité des documents. Nous connaissons la législation
 Nous fous fournissons l'estimation de votre bien 
 
 
-[ >>>> Remplir un formulaire de demande d'estimation gratuite de vote maison ou votre appartement à Luxembourg]({{< ref  "about.fr.md" >}})
+[ >>>> Remplir un formulaire de demande d'estimation gratuite de vote maison ou votre appartement à Luxembourg]({{< ref "formulaire-demande-estimation.fr.md" >}})
 
 ## Retrouvez-moi sur Youtube
 

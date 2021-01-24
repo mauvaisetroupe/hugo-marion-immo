@@ -25,7 +25,7 @@ weight: 10
 ## L'agence
 
 {{< figure src="/images/logo-agence-black-450.jpg" >}}
-Hestia Group Coldwell Banker<br/>
+### Hestia Group Coldwell Banker<br/>
 18 Rue de la Chapelle<br/>
 L-8017 Strassen
 

@@ -6,7 +6,7 @@ publishDate: 2019-06-19T22:21:42+01:00
 author: "John Doe"
 images: []
 draft: false
-tags: ["health", "cooking", "geography", "map", "luxembourg"]
+tags: [ "geography", "map", "luxembourg"]
 ---
 
 Petit pense-bête déstiné aux agents immobilier qui souhaitent réviser leur géographie du Luxembourg  
