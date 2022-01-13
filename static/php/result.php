@@ -14,6 +14,6 @@
 	<meta http-equiv="refresh" content="3;url=http://www.marion-immo.lu/" />
 </header
 <body>
-<p>Merci de nous faire confiance. Nous allons vous contacter très rapidement</p>
+<p>Merci de nous faire confiance. Nous allons vous contacter trÃ¨s rapidement</p>
 </bodY>
 </html>
