@@ -9,14 +9,14 @@ DefaultContentLanguage = "fr"
 
 [languages]
   [languages.fr]
-    title = "Marion Immo"     # The title of your Hugo site
+    title = "Marion Boudier Immobilier"     # The title of your Hugo site
     weight = 1
     [languages.fr.params]
         description = "Welcome on Marion Boudier website, your real estate agent in Luxembourg"
         favicon = "favicon.ico"
         logo = ""
   [languages.en]
-    title = "Marion Immo"
+    title = "Marion Boudier Immobilier"
     weight = 2
     [languages.en.params]
         description = "Welcome on Marion Boudier website, your real estate agent in Luxembourg"

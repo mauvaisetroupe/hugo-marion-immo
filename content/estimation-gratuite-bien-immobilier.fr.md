@@ -46,7 +46,7 @@ Basée sur un diagnostic complet de votre maison ou sur votre appartement mais a
 
 {{< figure class="imageastep" src="/images/shaking_hands-512.png" >}} 
 ## Step 1
-Rencontre à votre domicile avec un de nos experts Coldwell Banker®   
+Rencontre à votre domicile avec un de nos experts
 Nous nous déplaçons gratuitement et sans engagement de votre part
 
 {{< figure class="imageastep" src="/images/estimation.png" >}}  

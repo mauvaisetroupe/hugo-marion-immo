@@ -45,7 +45,7 @@ Based on a complete diagnosis of your home or your apartment but also and especi
 
 {{<figure class = "imageastep" src = "/images/shaking_hands-512.png">}}
 ## Step 1
-Meet at your home with one of our Coldwell Banker® experts
+Meet at your home with one of our experts
 We move for free and without obligation on your part
 
 {{<figure class = "imageastep" src = "/images/estimation.png">}}

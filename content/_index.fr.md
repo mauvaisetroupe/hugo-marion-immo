@@ -13,4 +13,3 @@ weight: 1
 
 # Marion Boudier
 ## Votre agent immobilier
-{{< figure src="/images/logo-agence-black-450.jpg" >}}

@@ -11,10 +11,10 @@ weight: 10
 
 ## Please, contact me
 
-<b>Marion Boudier</b>, real estate agent Coldwell Banker® in Luxembourg 
+<b>Marion Boudier</b>, real estate agent in Luxembourg 
 
 **Phone** : <a href="tel:+352%20661%2051%2006%2051">+352 661 51 06 51</a>  
-**Email** : <a href="mailto:marion.boudier.pro@gmail.com" alt="Email">marion.boudier.pro@gmail.com</a>   
+**Email** : <a href="mailto:marion.boudier@marion-immo.lu" alt="Email">marion.boudier@marion-immo.lu</a>   
 **Web site** : <a href="http://www.marion-immo.lu" >www.marion-immo.lu</a>   
 
 <a href="/vcard/marion-boudier-remax.vcf" alt="VCard"><b>Please add me to your phone contacts</b></a>   
@@ -22,16 +22,6 @@ weight: 10
 
 <br/>
 
-## Estate agency
-
-{{< figure src="/images/logo-agence-black-450.jpg" >}}
-Hestia Group Coldwell Banker<br/>
-18 Rue de la Chapelle<br/>
-L-8017 Strassen
-
-<!--
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83252.65724932555!2d5.994337748974398!3d49.62048470843395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47954eae9f64aae9%3A0xa4136234c313e536!2sRE+%2F+MAX+-+All+Stars!5e0!3m2!1sfr!2slu!4v1561615910306!5m2!1sfr!2slu" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
--->
 
 In particular, [if you live in Bridel and are looking for a real estate agent, contact me]({{< ref  "estimation-gratuite-bridel.en.md" >}})
 
