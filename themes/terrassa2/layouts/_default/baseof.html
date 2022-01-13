@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="{{.Site.Language.Lang}}">
+{{- partial "head.html" . -}}
+
+<body>
+
+    {{- partial "header.html" . -}}
+    {{- block "main" . }}{{- end }}
+
+
+    <a class="floating-btn trigger-whatsapp" id="agentprofile_contactPopUpIcon" >
+        <img src="/common/images/contact-icon.svg" >
+    </a>
+
+    <div style="display: none;" id="agentprofile_sendmessage_whatsapp_popup" class="whatsapp-section2">
+        <div class="contact-popup-list">
+  
+                <a class="contact-images" href="mailto:marion.boudier.pro@gmail.com" onclick="InsertOAGtm('Agent Profile', 'Leads', 'Email Link');">
+                    <img class="contact-icons" src="/common/images/mail-icon.svg">
+                </a>
+                <a href="https://api.whatsapp.com/send?phone=352661510651" target="_blank" id="agentprofile_sendmessage_whatsapp_popup_whatsapp" class="contact-images">
+                    <img class="contact-icons" src="/common/images/whatsapp-icon.svg">
+                </a>
+                <a href="tel:+352661510651" id="agentprofile_sendmessage_whatsapp_popup_regualcall" class="contact-images" >
+                    <img class="contact-icons" src="/common/images/call-icon.svg">
+                </a>
+            <a class="floating-btn close-btn-round btn" id="agentprofile_sendmessage_whatsapp_popup_close">
+                <img class="round-btn-img" src="/common/images/close-x.png">
+             </a>
+        </div>
+    </div>
+
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+
+    <script>
+        var LiteralADD = "#AgentDirectDialSpan";
+        var LiteralOP = "#OfficePhoneSpan";
+        var LiteralP = "#PhoneSpan";
+        var LiteralF = "#FaxSpan";
+        var ShowADD = "#ctl02_ShowAgentDD"; 
+        var ShowOP = "#ctl02_ShowOffice";
+        var ShowP = "#ctl02_ShowPhone";
+        var ShowF = "#ctl02_ShowFax";
+        var ADDFull = $(LiteralADD).text().trim();
+        var OPFull = $(LiteralOP).text().trim();
+        var PFull = $(LiteralP).text().trim();
+        var FFull = $(LiteralF).text().trim();
+
+
+        $(document).ready(function () {
+        
+            $(LiteralADD).text(ADDFull.substr(0, 6));
+            $(LiteralOP).text(OPFull.substr(0, 6));
+            $(LiteralP).text(PFull.substr(0, 6));
+            $(LiteralF).text(FFull.substr(0, 6));
+        
+
+            if($('#divOfficeLinks').html() == '') {
+                $('#divOfficeLinks').hide();
+            }
+
+            $("#iconADD").attr("href", "tel:"+ADDFull);
+            $("#iconOP").attr("href", "tel:"+OPFull);
+            $("#iconP").attr("href", "tel:"+PFull);
+
+            $("#iconADD").click(function() {
+                if($(ShowADD).is(':visible'))
+                {
+                    $(ShowADD).trigger('click');
+                }
+            });
+
+            $("#iconOP").click(function() {
+                if($(ShowOP).is(':visible'))
+                {
+                    $(ShowOP).trigger('click');
+                }
+            });
+
+            $("#iconP").click(function() {
+                if($(ShowP).is(':visible'))
+                {
+                    $(ShowP).trigger('click');
+                }
+            });
+
+        });
+
+        $(ShowADD).click(function () {
+            $(ShowADD).hide();
+            $(LiteralADD).removeClass("hidePhone");
+            $(LiteralADD).html(String.format("<a href='tel:{0}' class='phone-link'>{1}</a>", ADDFull, ADDFull));
+            InsertOAGtm('Agent Profile', 'Leads', 'Show Phone');
+            $.ajax({
+                type: "POST",
+                url: "/handlers/OfficeAgentProfileRecordHitHandler.ashx",
+                data: {
+                    mode: "RecordHit",
+                    hitType: "AgentProfileViewDirectPhone",
+                    siteRegionID: 28,
+                AgentID: 280091046,
+                OfficeID: 28009,
+                listingID: 0
+            }
+
+        });
+    });
+
+
+
+    $(ShowOP).click(function () {
+        $(ShowOP).hide();
+        $(LiteralOP).removeClass("hidePhone");
+        $(LiteralOP).html(String.format("<a href='tel:{0}' class='phone-link'>{1}</a>", OPFull, OPFull));
+        InsertOAGtm('Agent Profile', 'Leads', 'Show Phone');
+        $.ajax({
+            type: "POST",
+            url: "/handlers/OfficeAgentProfileRecordHitHandler.ashx",
+            data: {
+                mode: "RecordHit",
+                hitType: "AgentProfileViewOfficePhone",
+                siteRegionID: 28,
+                AgentID: 280091046,
+                OfficeID: 28009,
+                listingID: 0
+            }
+
+        });
+    });
+
+    $(ShowP).click(function () {
+        $(ShowP).hide();
+        $(LiteralP).removeClass("hidePhone");
+        $(LiteralP).html(String.format("<a href='tel:{0}' class='phone-link'>{1}</a>", PFull, PFull));
+        InsertOAGtm('Agent Profile', 'Leads', 'Show Phone');
+        $.ajax({
+            type: "POST",
+            url: "/handlers/OfficeAgentProfileRecordHitHandler.ashx",
+            data: {
+                mode: "RecordHit",
+                hitType: "AgentProfileViewAgentPhone",
+                siteRegionID: 28,
+                AgentID: 280091046,
+                OfficeID: 28009,
+                listingID: 0
+            }
+
+        });
+    });
+
+    $(ShowF).click(function () {
+        $(ShowF).hide();
+        $(LiteralF).removeClass("hidePhone");
+        $(LiteralF).html(String.format("<a href='tel:{0}' class='phone-link'>{1}</a>", FFull, FFull));
+        InsertOAGtm('Agent Profile', 'Leads', 'Show Phone');
+        $.ajax({
+            type: "POST",
+            url: "/handlers/OfficeAgentProfileRecordHitHandler.ashx",
+            data: {
+                mode: "RecordHit",
+                hitType: "AgentProfileViewOfficeFax",
+                siteRegionID: 28,
+                AgentID: 280091046,
+                OfficeID: 28009,
+                listingID: 0
+            }
+
+        });
+    });
+
+    $("#agentprofile_contactPopUpIcon").click(function () {
+        $("#agentprofile_contactPopUpIcon").css('display','none');
+        $("#agentprofile_sendmessage_whatsapp_popup").css('display','block');
+        $('.contact-popup-list').addClass('show-contact-popup-list');
+        $('.contact-images').addClass('fadeInUp animated');
+        return false;
+    });
+
+
+    $("#agentprofile_sendmessage_whatsapp_popup_close").click(function () {
+        $("#agentprofile_contactPopUpIcon").css('display','block');
+        $('.contact-popup-list').removeClass('show-contact-popup-list');
+        $('.contact-images').removeClass('fadeInUp animated');
+        $("#agentprofile_sendmessage_whatsapp_popup").css('display','none');
+        return false;
+    });
+
+
+    $("#agentprofile_sendmessage_whatsapp_popup_email").click(function () {
+        $("#agentprofile_contactPopUpIcon").css('display','block');
+        $("#agentprofile_sendmessage_whatsapp_popup").css('display','none');
+        //var element_to_scroll_to = document.getElementById('SmartModuleProfileContact');
+        //element_to_scroll_to.scrollIntoView({ block: 'end',  behavior: 'smooth' });
+        return false;
+    });
+
+    $("#agentprofile_sendmessage_whatsapp_popup_whatsapp").click(function () {
+        $.ajax({
+            type: "POST",
+            url: "/handlers/OfficeAgentProfileRecordHitHandler.ashx",
+            data: {
+                mode: "RecordHit",
+                hitType: "WhatsAppWebLeads",
+                siteRegionID: 28,
+                AgentID: 280091046,
+                OfficeID: 28009,
+                listingID: 0
+            }
+        });
+    });
+
+    $("#agentprofile_sendmessage_whatsapp_popup_regualcall").click(function () {
+        $.ajax({
+            type: "POST",
+            url: "/handlers/OfficeAgentProfileRecordHitHandler.ashx",
+            data: {
+                mode: "RecordHit",
+                hitType: "AgentSearchViewPhone",
+                siteRegionID: 28,
+                AgentID: 280091046,
+                OfficeID: 28009,
+                listingID: 0
+            }
+        });
+     });
+
+                        $("#agentprofile_sendmessage_whatsapp_desktop_regualcall").click(function () {
+        $.ajax({
+            type: "POST",
+            url: "/handlers/OfficeAgentProfileRecordHitHandler.ashx",
+            data: {
+                mode: "RecordHit",
+                hitType: "AgentSearchViewPhone",
+                siteRegionID: 28,
+                AgentID: 280091046,
+                OfficeID: 28009,
+                listingID: 0
+            }
+        });
+     });
+
+     $("#agentprofile_sendmessage_whatsapp_desktop_whatsapp").click(function () {
+        $.ajax({
+            type: "POST",
+            url: "/handlers/OfficeAgentProfileRecordHitHandler.ashx",
+            data: {
+                mode: "RecordHit",
+                hitType: "WhatsAppWebLeads",
+                siteRegionID: 28,
+                AgentID: 280091046,
+                OfficeID: 28009,
+                listingID: 0
+            }
+        });
+    });
+
+    $(document.body).on('click','span[class=fbook]', function()
+    {
+        if (!$('.fbook').hasClass('active'))
+        {
+            InsertOAGtm('Agent Profile', 'Additional Functionality', 'Social Media Feeds');
+        }
+        $('.fbook').attr('class', 'fbook active');
+        $('.twttr').attr('class', 'twttr');
+        $('.ytube').attr('class', 'ytube');
+        $('.facebook-container').find('.socialmedia-feed').attr('class', 'socialmedia-feed');
+        $('.twitter-container').find('.socialmedia-feed').attr('class', 'socialmedia-feed hide');
+        $('.youtube-container').find('.socialmedia-feed').attr('class', 'socialmedia-feed hide');
+        $('.youtube-container').css('visibility', 'hidden');
+    });
+    $(document.body).on('click', 'span[class=twttr]', function()
+    {
+        if (!$('.twttr').hasClass('active'))
+        {
+            InsertOAGtm('Agent Profile', 'Additional Functionality', 'Social Media Feeds');
+        }
+        $('.fbook').attr('class', 'fbook');
+        $('.twttr').attr('class', 'twttr active');
+        $('.ytube').attr('class', 'ytube');
+        $('.facebook-container').find('.socialmedia-feed').attr('class', 'socialmedia-feed hide');
+        $('.twitter-container').find('.socialmedia-feed').attr('class', 'socialmedia-feed');
+        $('.youtube-container').find('.socialmedia-feed').attr('class', 'socialmedia-feed hide');
+        $('.youtube-container').css('visibility', 'hidden');
+    });
+    $(document.body).on('click', 'span[class=ytube]', function()
+    {
+        if (!$('.ytube').hasClass('active'))
+        {
+            InsertOAGtm('Agent Profile', 'Additional Functionality', 'Social Media Feeds');
+        }
+        $('.fbook').attr('class', 'fbook');
+        $('.twttr').attr('class', 'twttr');
+        $('.ytube').attr('class', 'ytube active');
+        $('.facebook-container').find('.socialmedia-feed').attr('class', 'socialmedia-feed hide');
+        $('.twitter-container').find('.socialmedia-feed').attr('class', 'socialmedia-feed hide');
+        $('.youtube-container').find('.socialmedia-feed').attr('class', 'socialmedia-feed');
+        $('.youtube-container').css('visibility', 'visible');
+    });
+
+    </script>
+
+
+    {{- partial "footer.html" . -}}
+</body>
+
+</html>

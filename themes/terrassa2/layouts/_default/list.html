@@ -1,0 +1,23 @@
+{{ define "main" }}
+<!-- Banner -->
+<section id="banner">
+	<div class="inner">
+			{{ $currentLang := .Site.Language.Lang }}
+			{{ if eq $currentLang "en" }}
+				<h1>Marion Boudier: <span> Your real estate agent</span></h1>
+			{{ else }}
+				<h1>Marion Boudier: <span> Votre agent Immobilier</span></h1>
+			{{ end }}
+	</div>
+</section>
+<main class="content">
+
+    
+
+	{{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "posts") }}
+
+	{{ range $paginator.Pages }}
+	{{ .Render "card" }} 
+	{{ end }}
+</main>
+{{ end }}

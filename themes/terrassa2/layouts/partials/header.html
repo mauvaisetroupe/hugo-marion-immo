@@ -1,0 +1,40 @@
+<header class="header">
+
+    <div class="header__title">
+
+        {{ $currentLang := .Site.Language.Lang }}
+        {{ if .IsTranslated }}
+            {{ range .Translations }}
+            <div style="margin: 10px; width: 35px; height: 35px;">
+                {{ if eq $currentLang "en" }}
+                  <a href="{{ .Permalink }}"><img class="flag" src="/images/france-icon-48.png" width="48" height="48"></a>
+                {{ else }}
+                  <a href="{{ .Permalink }}"><img  class="flag" src="/images/uk-icon-48.png" width="48" height="48"></a>
+                {{ end }}
+            </div>
+            {{ end }}
+        {{ else }}
+          <div style="margin: 10px; width: 35px; height: 35px;">
+              {{ if eq $currentLang "en" }}
+                <a href="/"><img class="flag" src="/images/france-icon-48.png" width="48" height="48"></a>
+              {{ else }}
+                <a href="/en/"><img  class="flag" src="/images/uk-icon-48.png" width="48" height="48"></a>
+              {{ end }}
+          </div>            
+        {{ end }}
+
+
+        <a href="{{ $.Site.BaseURL }}" class="header__title__link" alt="Home">
+            {{ if $.Site.Params.logo }}
+            <img src="{{ $.Site.BaseURL }}{{ $.Site.Params.logo }}" class="header__title__logo" alt="{{ $.Site.Title }}">
+            {{ else }}
+            {{ $.Site.Title }}
+            {{ end }}
+        </a>
+    </div>
+
+    {{ partial "menu.html" . }}
+    {{ partial "hamburger-menu.html" . }}
+
+
+</header>
