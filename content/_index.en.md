@@ -11,6 +11,5 @@ weight: 1
 <br/>
 <br/>
 
-# Marion Boudier
-## Your real estate agent
 {{< figure src="/images/logo-agence-450.png" >}}
+## Real Estate in confidence
