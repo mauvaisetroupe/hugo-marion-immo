@@ -11,5 +11,5 @@ weight: 1
 <br/>
 <br/>
 
-# Marion Boudier
-## Votre agent immobilier
+{{< figure src="/images/logo-agence-450.png" >}}
+## L'immobilier en toute confiance
