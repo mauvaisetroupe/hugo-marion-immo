@@ -18,8 +18,10 @@ N'hésitez pas à me contacter
 
 ## Retrouvez-moi sur Youtube
 
+{{< rawhtml >}}
 <div class="youtubevideowrap">
     <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4GGS9TNRoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
+{{< /rawhtml >}}

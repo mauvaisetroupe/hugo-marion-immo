@@ -28,8 +28,10 @@ En particulier, [si vous habitez à Bridel et que vous cherchez un agent immobil
 
 Un exemple de ce que nous pouvons faire pour louer ou vendre votre bien : 
 
+{{< rawhtml >}}
 <div class="youtubevideowrap">
     <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4GGS9TNRoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
+{{< /rawhtml >}}

@@ -23,14 +23,16 @@ weight: 10
 <br/>
 
 
-In particular, [if you live in Bridel and are looking for a real estate agent, contact me]({{< ref  "estimation-gratuite-bridel.en.md" >}})
+In particular, [if you live in Bridel and are looking for a real estate agent, contact me]({{<  ref "estimation-gratuite-bridel.en.md" >}})
 
 ## Find me on youtube
 
 An example of what we can do to rent or sell your property:
 
+{{< rawhtml >}}
 <div class="youtubevideowrap">
     <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4GGS9TNRoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
+{{< /rawhtml >}}
