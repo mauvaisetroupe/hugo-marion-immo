@@ -33,7 +33,7 @@ DefaultContentLanguage = "fr"
     textColor = "blue" # Empty for default color
 
 [params.contact]
-    email = "marion.boudier.pro@gmail.lu"
+    email = "marion.boudier@marion-immo.lu"
     phone = "+352 661 51 06 51"
     skype = ""
     address = ""
