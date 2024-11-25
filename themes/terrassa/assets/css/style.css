@@ -258,13 +258,13 @@
 	grid-template-areas: "title" "date" "subtitle" "author";
 	grid-template-rows: auto;
 	justify-content: left;
-	padding: 0 20%;
+	margin: 1.75rem 22% 0.75rem;
 }
 
 .post__title {
 	font-size: var(--header);
 	grid-area: title;
-	color: var(--red-remax);
+	color: var(--blue-remax);
 	font-weight: bold;
 	text-align: left;
 }
@@ -285,7 +285,7 @@
 .post__date {
 	grid-area: date;
 	margin-bottom: 1.75rem;
-}
+}	
 
 .post__body {
 	margin: 1.75rem 22% 0.75rem;

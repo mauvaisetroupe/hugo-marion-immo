@@ -8,6 +8,10 @@
 		margin: 2.75rem 19%;
 	}
 
+	.post__header {
+		margin: 0 19%;
+	}
+
 	.post__body {
 		margin: 0 19%;
 	}
@@ -106,9 +110,9 @@
 	.contact__field--submit {
 		margin: 1.75rem 0;
 	}
-
+	
 	.post__header {
-		padding: 0 10%;
+		margin: 0 9%;
 	}
 
 	.post__body {
