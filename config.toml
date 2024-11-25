@@ -60,3 +60,5 @@ DefaultContentLanguage = "fr"
     inputMsgLength = 750
     inputSubmitValue = "Demander une évaluation gratuite"    
 
+[markup.goldmark.renderer]
+unsafe= true
