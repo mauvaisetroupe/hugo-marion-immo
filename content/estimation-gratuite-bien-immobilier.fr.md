@@ -13,9 +13,6 @@ weight: 3
 Faire estimer la valeur de son bien immobilier est une étape cruciale pour réussir sa vente.   
 Déterminer le bon prix de vente est la première étape d'une transaction immobilière réussie
 
-<div style="font-family: 'Source Sans Pro', sans-serif;font-size:30px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Vendez rapidement grâce au bon prix de vente</div>
-
-<br/>
 [ >>>> Remplir un formulaire de demande d'estimation gratuite de vote maison ou votre appartement à Luxembourg]({{< ref "formulaire-demande-estimation.fr.md" >}})
 
 # Vendre au bon prix, vendre rapidement

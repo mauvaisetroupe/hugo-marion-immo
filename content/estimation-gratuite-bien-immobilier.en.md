@@ -13,10 +13,7 @@ weight: 3
 Making estimate the value of its property is a crucial step to make a successful sale.
 Determining the right selling price is the first step in a successful real estate transaction
 
-<div style="font-family: 'Source Sans Pro', sans-serif;font-size:30px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Sell quickly thanks to the good sale price </div>
-
-<br/>
-[>>>> Complete a request form for a free estimate of a house vote or your apartment in Luxembourg] ({{<ref "formulaire-demande-estimation.en.md">}})
+[>>>> Complete a request form for a free estimate of a house vote or your apartment in Luxembourg]({{<ref "formulaire-demande-estimation.en.md">}})
 
 # Sell at the right price, sell quickly
 
