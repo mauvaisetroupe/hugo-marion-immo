@@ -16,7 +16,6 @@
 	display: flex;
 	font-size: 1.1rem;
 	justify-content: flex-start;
-	margin: 1rem 4.5rem;
 }
 
 .header__title__link {
@@ -34,7 +33,6 @@
 	align-items: center;
 	display: flex;
 	hyphens: none;
-	margin-right: 4.5rem;
 }
 
 .menu__items {

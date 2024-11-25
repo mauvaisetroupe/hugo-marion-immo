@@ -124,7 +124,6 @@
 
 @media only screen and (max-width: 576px) {
 	.header__title {
-		margin-left: 1.75rem;
 	}
 
 	.toggle {
