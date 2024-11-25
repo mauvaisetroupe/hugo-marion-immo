@@ -306,7 +306,8 @@
 
 .post__body > ul,
 .post__body > ol {
-	margin-left: 3.75rem;
+	margin-left: 2rem;
+	list-style: square;
 }
 
 .post__footer {
