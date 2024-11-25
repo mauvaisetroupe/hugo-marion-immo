@@ -8,7 +8,7 @@ weight: 3
 ---
 
 
-# ASK FOR FREE ESTIMATION OF YOUR PROPERTY
+# Vendre au bon prix pour vendre bien et vendre vite
 
 Making estimate the value of its property is a crucial step to make a successful sale.
 Determining the right selling price is the first step in a successful real estate transaction

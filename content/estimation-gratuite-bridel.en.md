@@ -21,7 +21,7 @@ Nous vous proposons une estimation **gratuite et sans engagement**.
 
 <div style="font-family: 'Source Sans Pro', sans-serif;font-size:40px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Vendez rapidement&nbsp;<div>grâce au bon prix de vente</div></div>
 
-# DEMANDEZ L'ESTIMATION GRATUITE DE VOTRE PROPRIÉTÉ
+# Demandez l'estimation gratuite de votre propriété
 
 Vous l'aurez compris, faire une bonne estimation avec une valeur haute mais réaliste de votre bien est donc une étape cruciale pour réussir votre transaction.   
 

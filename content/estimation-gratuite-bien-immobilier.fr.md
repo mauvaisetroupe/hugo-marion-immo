@@ -8,7 +8,7 @@ weight: 3
 ---
 
 
-# DEMANDEZ L'ESTIMATION GRATUITE DE VOTRE PROPRIÉTÉ
+# Demandez l'estimation gratuite de votre propriété
 
 Faire estimer la valeur de son bien immobilier est une étape cruciale pour réussir sa vente.   
 Déterminer le bon prix de vente est la première étape d'une transaction immobilière réussie
