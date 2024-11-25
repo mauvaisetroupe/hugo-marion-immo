@@ -15,7 +15,7 @@ weight: 10
 
 **Phone** : <a href="tel:+352%20661%2051%2006%2051">+352 661 51 06 51</a>  
 **Email** : <a href="mailto:marion.boudier@marion-immo.lu" alt="Email">marion.boudier@marion-immo.lu</a>   
-**Web site** : <a href="http://www.marion-immo.lu" >www.marion-immo.lu</a>   
+**Web site** : <a href="https://www.marion-immo.lu" >www.marion-immo.lu</a>   
 
 <a href="/vcard/marion-boudier-remax.vcf" alt="VCard"><b>Please add me to your phone contacts</b></a>   
 

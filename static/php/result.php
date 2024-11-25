@@ -11,7 +11,7 @@
 ?>
 <html>
 <header>
-	<meta http-equiv="refresh" content="3;url=http://www.marion-immo.lu/" />
+	<meta http-equiv="refresh" content="3;url=https://www.marion-immo.lu/" />
 </header
 <body>
 <p>Merci de nous faire confiance. Nous allons vous contacter très rapidement</p>
