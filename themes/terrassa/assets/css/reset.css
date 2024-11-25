@@ -91,18 +91,6 @@ body {
     text-rendering: optimizeLegibility;
 }
 
-blockquote,
-q {
-    quotes: none;
-}
-
-blockquote:after,
-blockquote:before,
-q:after,
-q:before {
-    content: "";
-}
-
 h1,
 h2,
 h3,

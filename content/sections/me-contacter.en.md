@@ -7,14 +7,11 @@ weight: 99
 
 Please call me for more details. 
 
-**Tél** : <a href="tel:+352%20661%2051%2006%2051">+352 661 51 06 51</a>  
-**Email** : <a href="mailto:marion.boudier@marion-immo.lu" alt="Email">marion.boudier@marion-immo.lu</a>   
-**Web** : <a href="https://www.marion-immo.lu" >www.marion-immo.lu</a>   
-   
-   
-
-<a href="/vcard/marion-boudier-remax.vcf" alt="VCard" style="font-family: 'Source Sans Pro', sans-serif;font-size:20px; font-weight:700; color:red;line-height:1.1; text-align: center;">Please, add me to your phone contacts</a>
-
+> **Tél** : <a href="tel:+352%20661%2051%2006%2051">+352 661 51 06 51</a>  
+> **Email** : <a href="mailto:marion.boudier@marion-immo.lu" alt="Email">marion.boudier@marion-immo.lu</a>   
+> **Web** : <a href="https://www.marion-immo.lu" >www.marion-immo.lu</a>   
+    
+> [**Please, add me to your phone contacts**](/vcard/marion-boudier-remax.vcf)
 
 ## Please, follow me on youtube
 
