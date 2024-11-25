@@ -2,12 +2,14 @@
 <!-- Banner -->
 <section id="banner">
 	<div class="inner">
-			{{ $currentLang := .Site.Language.Lang }}
-			{{ if eq $currentLang "en" }}
-				<h1>Marion Boudier: <span> Your real estate agent</span></h1>
-			{{ else }}
-				<h1>Marion Boudier: <span> Votre agent Immobilier</span></h1>
-			{{ end }}
+		{{ $currentLang := .Site.Language.Lang }}
+		{{ if eq $currentLang "en" }}
+			<h1>Marion Boudier</h1>
+			<h2>Your real estate agent</h2>
+		{{ else }}
+			<h1>Marion Boudier</h1>
+			<h2>Votre agent Immobilier</h2>
+		{{ end }}
 	</div>
 </section>
 <main class="content">
