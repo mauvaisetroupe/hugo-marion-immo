@@ -2,7 +2,13 @@
     style="background-image: url('{{ $.Site.BaseURL }}/{{ print (index $.Params.images 0) }}');" {{ end }}>
     <div class="hero__caption" {{ if $.Site.Params.hero.textColor }} style="color: {{ $.Site.Params.hero.textColor }};"
         {{ end }}>
-        {{ .Content }}
+        {{ $currentLang := .Site.Language.Lang }}
+        <figure><img src="/images/logo-agence-450.png"></figure>
+        {{ if eq $currentLang "en" }}
+        <h2 id="limmobilier-en-toute-confiance">Real Estate in confidence</h2>
+        {{ else }}
+        <h2 id="limmobilier-en-toute-confiance">L’immobilier en toute confiance</h2>
+        {{ end }}
         {{ if $.Site.Params.cta.show }}
         {{ partial "cta-btn.html" . }}
         {{ end }}
