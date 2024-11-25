@@ -40,23 +40,23 @@ Based on a complete diagnosis of your home or your apartment but also and especi
 
 # Steps to know the real value of your property in Luxembourg
 
-{{<figure class = "imageastep" src = "/images/shaking_hands-512.png">}}
+{{< figure class="imageastep" src="/images/shaking_hands-512.png" >}}
 ## Step 1
 Meet at your home with one of our experts
 We move for free and without obligation on your part
 
-{{<figure class = "imageastep" src = "/images/estimation.png">}}
+{{<figure class="imageastep" src="/images/estimation.png">}}
 ## Step 2
 Accurate on-site measurements by a Luxemburg real estate expert
 Study of the quality of the construction, the materials used, the quality of the finishes
 Study of electrical, energy, etc. compliance
 Study of the environment and the neighborhood
 
-{{<figure class = "imageastep" src = "/images/resultados-icon.png">}}
+{{<figure class="imageastep" src="/images/resultados-icon.png">}}
 ## Step 3
 The expert checks the conformity of the documents. We know the Luxembourg legislation and we can inform you about the steps, your rights and your homework
 
-{{<figure class = "imageastep" src = "/images/call-report-icon-3.png">}}
+{{<figure class="imageastep" src="/images/call-report-icon-3.png">}}
 ## Step 4
 We are providing the estimate of your property
 
