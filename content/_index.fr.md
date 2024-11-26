@@ -35,8 +35,6 @@ N'hésitez pas à me contacter
 
 > [**Cliquez pour m'ajouter à vos contacts**](/vcard/marion_boudier_immobilier.vcf)
 
-
-
 ## Retrouvez-moi sur Youtube
 
 {{< rawhtml >}}
