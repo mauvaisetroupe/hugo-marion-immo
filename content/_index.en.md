@@ -31,7 +31,7 @@ Please call me for more details.
 > <a href="mailto:marion.boudier@marion-immo.lu" alt="Email">marion.boudier@marion-immo.lu</a>   
 > <a href="https://www.marion-immo.lu" >www.marion-immo.lu</a>   
     
-> [**Please, add me to your phone contacts**](/vcard/marion-boudier-immobilier.vcf)
+> [**Please, add me to your phone contacts**](/vcard/marion_boudier_immobilier.vcf)
 
 ## Please, follow me on youtube
 
