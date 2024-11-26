@@ -1,3 +1,9 @@
 RewriteEngine On
+
+# Forcer HTTPS
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Supprimer www
+RewriteCond %{HTTP_HOST} ^www\.marion-immo\.lu [NC]
+RewriteRule ^(.*)$ https://marion-immo.lu/$1 [L,R=301]
