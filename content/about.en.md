@@ -18,7 +18,7 @@ weight: 10
 > <a href="https://www.marion-immo.lu" >www.marion-immo.lu</a>    <br/>
 
 
-<a href="/vcard/marion-boudier-remax.vcf" alt="VCard"><b>Please add me to your phone contacts</b></a>, in particular, [if you live in Bridel and are looking for a real estate agent, contact me]({{<  ref "estimation-gratuite-bridel.en.md" >}})
+<a href="/vcard/marion-boudier-immobilier.vcf" alt="VCard"><b>Please add me to your phone contacts</b></a>, in particular, [if you live in Bridel and are looking for a real estate agent, contact me]({{<  ref "estimation-gratuite-bridel.en.md" >}})
 
 ## Find me on youtube
 

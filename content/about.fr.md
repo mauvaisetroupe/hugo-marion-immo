@@ -17,7 +17,7 @@ weight: 10
 > <a href="mailto:marion.boudier@marion-immo.lu" alt="Email">marion.boudier@marion-immo.lu</a> <br/>
 > <a href="https://www.marion-immo.lu" >www.marion-immo.lu</a>   <br/>
 
-<a href="/vcard/marion-boudier-remax.vcf" alt="VCard"><b>Ajoutez moi à vos contact</b></a>, en particulier, [si vous habitez à Bridel et que vous cherchez un agent immobilier, contactez-moi]({{< ref  "estimation-gratuite-bridel.fr.md" >}})
+<a href="/vcard/marion-boudier-immobilier.vcf" alt="VCard"><b>Ajoutez moi à vos contact</b></a>, en particulier, [si vous habitez à Bridel et que vous cherchez un agent immobilier, contactez-moi]({{< ref  "estimation-gratuite-bridel.fr.md" >}})
 
 ## Retrouvez-moi sur Youtube
 
