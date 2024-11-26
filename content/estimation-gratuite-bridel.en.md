@@ -1,5 +1,5 @@
 ---
-title: "Estimation gratuite à Bridel"
+title: "Free Valuation in Bridel"
 description: ""
 images: [""]
 draft: false
@@ -8,75 +8,71 @@ weight: 3
 tags: ["bridel", "luxembourg"]
 ---
 
-# Vendre au bon prix pour vendre bien et vendre vite
+# Sell at the Right Price to Sell Well and Sell Fast
 
-Un bien trop cher risque de **ralentir la processus de vente de votre bien**. Vous ne trouverez que peu d'acquéreur. Mais surtout, une maison ou un appartement qui reste trop longtemps sur le marché sème le doute dans la tête des personnes qui voit le bien dans les journaux ou les sites depuis trop longtemps.
+An overpriced property can **slow down the selling process of your property**. You will attract only a few buyers. Moreover, a house or apartment that stays on the market too long raises doubts in the minds of people who see it repeatedly in newspapers or on websites.
 
-Inversement, un estimation trop basse représente un **manque à gagner**.
+Conversely, an undervalued estimate results in a **financial loss**.
 
-Nous vous proposons une estimation **gratuite et sans engagement**.
+We offer a **free and no-obligation valuation**.
 
+<div style="font-family: 'Source Sans Pro', sans-serif;font-size:55px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Do you live in Bridel?</div></div>
 
-<div style="font-family: 'Source Sans Pro', sans-serif;font-size:55px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Vous habitez à Bridel</div></div>
+<div style="font-family: 'Source Sans Pro', sans-serif;font-size:40px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Sell quickly&nbsp;<div>thanks to the right sale price</div></div>
 
-<div style="font-family: 'Source Sans Pro', sans-serif;font-size:40px; font-weight:700; color:red;line-height:1.1; text-align: center;" class="text-content">Vendez rapidement&nbsp;<div>grâce au bon prix de vente</div></div>
+# Request a Free Valuation of Your Property
 
-# Demandez l'estimation gratuite de votre propriété
+As you understand, making an accurate valuation with a high but realistic value of your property is a crucial step for a successful transaction.
 
-Vous l'aurez compris, faire une bonne estimation avec une valeur haute mais réaliste de votre bien est donc une étape cruciale pour réussir votre transaction.   
+# A Professional Method
 
-# Une méthode professionnelle
+We use a professional and time-tested method.
 
-Nous utilisons une méthode professionnelle et éprouvée depuis longtemps.  
+Our approach:
 
-Notre démarche : 
-
- * Un diagnostic complet de votre maison ou sur votre appartement 
- * Une analyse du marché et de la concurrence
- * Le savoir faire pour mettre votre bien au bon prix sur la marché
+ * A complete assessment of your house or apartment 
+ * A market and competition analysis
+ * Expertise to position your property at the right price on the market
 
 {{< figure src="/images/estimation-gratuite-2.jpg" >}}
 
+# A Comprehensive Real Estate Database in Luxembourg
 
-# Une base de données importante sur Luxembourg
+We have one of the largest databases of sold and listed properties in Luxembourg. This knowledge is essential to determine the right price for your property.
 
-Nous possédons l'une des plus grandes base de données de biens immobiliers vendus ou à vendre au Luxembourg. Cette connaissance est essentielle pour déterminer le prix juste de votre propriété.
+# In-Depth Market Knowledge
 
-# Une connaissance du marché
+With over 10 years of experience in the Grand Duchy, **this is what sets us apart** from our competitors.
 
-Avec plus de 10 ans d'expérience au Grand-Duché, **voilà ce qui nouspermet de faire la différence** avec nos concurrents
+Don't hesitate: request a free valuation of your house or apartment by a recognized real estate agency in Bridel and Strassen.
 
-N'hésitez pas : demandez l'estimation gratuite de votre maison ou de votra appartement par une agence immobilière reconnue sur Bridel et Strassen
-
-# Les étapes pour connaître la valeur réelle de votre bien à Bridel
+# Steps to Determine the Real Value of Your Property in Bridel
 
 {{< figure class="imageastep" src="/images/shaking_hands-512.png" >}} 
 ## Step 1
-Rencontre à votre domicile à Bridel avec un de nos experts 
-Nous nous déplaçons gratuitement et sans engagement de votre part
+Meeting at your home in Bridel with one of our experts.  
+We travel for free with no obligation on your part.
 
 {{< figure class="imageastep" src="/images/estimation.png" >}}  
 ## Step 2  
-Prise de mesures précises sur place par un expert de l'immobilier Luxembourgeois  
-Etude de la qualité de la construction, des matériaux utilisés, de la qualité des finitions
-Etude de la conformité électrique, énergétique, etc. 
-Etude de l'environnement et du quartier
+Precise on-site measurements by a Luxembourg real estate expert.  
+Assessment of the quality of the construction, materials used, and finishes.  
+Inspection of electrical and energy compliance, among others.  
+Study of the environment and neighborhood.
 
 {{< figure class="imageastep" src="/images/resultados-icon.png" >}}  
 ## Step 3  
-L'expert vérifie la conformité des documents. Nous connaissons la législation luxembourgeoise et nous pourrons vous informer des démarches, de vos droits et vos devoirs
+The expert verifies the compliance of documents. We are familiar with Luxembourg regulations and can inform you of the steps, your rights, and responsibilities.
 
 {{< figure class="imageastep" src="/images/call-report-icon-3.png" >}}  
 ## Step 4  
-Nous fous fournissons l'estimation de votre bien 
+We provide you with a valuation of your property.
 
+[ >>>> Fill out a request form for a free valuation of your house or apartment in Luxembourg]({{< ref  "about.en.md" >}})
 
-[ >>>> Remplir un formulaire de demande d'estimation gratuite de vote maison ou votre appartement à Luxembourg]({{< ref  "about.en.md" >}})
+## Find Me on YouTube
 
-
-## Retrouvez-moi sur Youtube
-
-Un exemple de ce que nous pouvons faire pour louer ou vendre votre bien : 
+An example of what we can do to rent or sell your property:
 
 {{< rawhtml >}}
 <div class="youtubevideowrap">
