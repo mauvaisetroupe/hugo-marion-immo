@@ -1,3 +1,4 @@
+{{ $currentLang := .Site.Language.Lang }}
 <nav class="hamburger-menu" aria-label="mobile-menu">
     <div class="toggle">
         <input type="checkbox" class="hamburger__toggle" id="hamburgerToggle" name="hamburger toggle" aria-label="Hamburguer menu">
@@ -13,6 +14,13 @@
                 </a>
             </li>
             {{ end }}
+            {{ range .Translations }}
+            <li class="hamburger__items__item" aria-label="language">
+                {{ if not (eq $currentLang .Language.Lang) }}
+                <a href="{{ .Permalink }}" class="menu__items__item__link" alt="language" role="menuitem">{{ or .Language.LanguageName .Language.Lang }}</a>
+                {{ end }}
+            </li>
+            {{ end }}    
         </ul>
     </div>
-</nav>
+</nav> 

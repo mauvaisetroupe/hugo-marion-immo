@@ -11,23 +11,24 @@ DefaultContentLanguage = "fr"
   [languages.fr]
     title = "Marion Boudier Immobilier"     # The title of your Hugo site
     weight = 1
+    languageName = 'Français'
     [languages.fr.params]
         description = "Welcome on Marion Boudier website, your real estate agent in Luxembourg"
         favicon = "favicon.ico"
-        logo = ""
+        logo = "images/logo-fond-noir.png"
   [languages.en]
     title = "Marion Boudier Immobilier"
     weight = 2
+    languageName = 'English'
     [languages.en.params]
         description = "Welcome on Marion Boudier website, your real estate agent in Luxembourg"
         favicon = "favicon.ico"
-        logo = ""
-
+        logo = "images/logo-fond-noir.png"
 
 [params]
     description = "Bienvenu sur le site de Marion Boudier, votre agent immobilier au Luxembourg"
     favicon = "favicon.ico"
-    logo = ""
+    logo = "images/logo-fond-noir.png"
 
 [params.hero]
     textColor = "blue" # Empty for default color

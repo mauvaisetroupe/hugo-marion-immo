@@ -64,7 +64,10 @@
 	}
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 920px) {
+	.header {
+		grid-template-columns: 3fr 1fr;
+	}
 	.header__title {
 		font-size: 1rem;
 	}
@@ -126,6 +129,14 @@
 	.pagination {
 		width: 70%;
 	}
+	
+	.toggle {
+		right: 1.75rem;
+	}
+}
+
+
+@media only screen and (max-width: 800px) {
 
 	.footer__contact {
 		flex-direction: column;
@@ -133,16 +144,14 @@
 
 	.footer {
 		grid-template-columns: 1fr;
-	}		
+	}	
 }
 
 @media only screen and (max-width: 576px) {
 	.header__title {
 	}
 
-	.toggle {
-		right: 1.75rem;
-	}
+
 
 	.hero {
 		background-position: 30% 0;

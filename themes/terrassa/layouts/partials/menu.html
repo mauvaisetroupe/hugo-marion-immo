@@ -1,3 +1,4 @@
+{{ $currentLang := .Site.Language.Lang }}
 <nav class="menu" aria-label="menu">
     <ul class="menu__items" aria-label="menu">
         {{ $current := . }}
@@ -7,6 +8,14 @@
                 alt="{{ .Name }}" role="menuitem">
                 {{ .Name }}
             </a>
+        </li>
+        {{ end }}
+
+        {{ range .Translations }}
+        <li class="menu__items__item" aria-label="language">
+            {{ if not (eq $currentLang .Language.Lang) }}
+            <a href="{{ .Permalink }}" class="menu__items__item__link" alt="language" role="menuitem">{{ or .Language.LanguageName .Language.Lang }}</a>
+            {{ end }}
         </li>
         {{ end }}
     </ul>
