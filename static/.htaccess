@@ -8,3 +8,8 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 # Forcer www
 RewriteCond %{HTTP_HOST} ^marion-immo\.lu$ [NC]
 RewriteRule ^(.*)$ https://www.marion-immo.lu/$1 [L,R=301]
+
+# Rediriger marion-immo.com et marion-immo.fr vers www.marion-immo.lu
+RewriteCond %{HTTP_HOST} ^(www\.)?marion-immo\.com$ [NC,OR]
+RewriteCond %{HTTP_HOST} ^(www\.)?marion-immo\.fr$ [NC]
+RewriteRule ^(.*)$ https://www.marion-immo.lu/$1 [L,R=301]
