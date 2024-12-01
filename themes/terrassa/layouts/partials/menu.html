@@ -11,12 +11,25 @@
         </li>
         {{ end }}
 
-        {{ range .Translations }}
-        <li class="menu__items__item" aria-label="language">
-            {{ if not (eq $currentLang .Language.Lang) }}
-            <a href="{{ .Permalink }}" class="menu__items__item__link" alt="language" role="menuitem">{{ or .Language.LanguageName .Language.Lang }}</a>
+        {{ if .IsTranslated }}
+
+            {{ range .Translations }}
+                {{ if not (eq $currentLang .Language.Lang) }}
+                <li class="menu__items__item" aria-label="language">
+                    <a href="{{ .Permalink }}" class="menu__items__item__link" alt="language" role="menuitem">{{ or .Language.LanguageName .Language.Lang }}</a>
+                </li>
+                {{ end }}
             {{ end }}
-        </li>
+         
+        {{ else }}
+
+            {{ range $.Site.Home.AllTranslations }}
+                {{ if not (eq $currentLang .Language.Lang) }}
+                <li class="menu__items__item" aria-label="language">
+                    <a href="{{ .Permalink }}" class="menu__items__item__link" alt="language" role="menuitem">{{ or .Language.LanguageName .Language.Lang }}</a>
+                </li>
+                {{ end }}
+            {{ end }}
         {{ end }}
     </ul>
 </nav>
