@@ -1,7 +1,7 @@
 ---
 title: "Estimation"
 description: ""
-images: [""]
+images: ["images/P1000780-site.jpg"]
 draft: false
 menu: main
 weight: 3
