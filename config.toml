@@ -6,7 +6,7 @@ language = "fr-FR"
 paginate = 3            # The numbers of posts per page
 theme = "terrassa"      # Your Hugo theme
 DefaultContentLanguage = "fr"
-summaryLength = 10
+summaryLength = 20
 
 [languages]
   [languages.fr]
